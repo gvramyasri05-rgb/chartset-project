@@ -1,0 +1,7 @@
+Open the canvas document (it's visible next to this chat) and copy the files into a local folder.
+
+Run npm install then npm run dev to test locally.
+
+Create the GitHub repo, invite collaborators, create the issue from the provided content, make a branch (e.g., feature/persist-sessions), commit changes and open the PR using the provided PR text.
+
+Enable the Actions workflow or connect Vercel/Netlify for deployment.
